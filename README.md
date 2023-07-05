@@ -18,13 +18,13 @@ A dictionary for discovering new anime which retrieves information from a fake d
     <th>About</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeLight.jpeg" alt="Home" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeExpandedLight.jpeg" alt="HomeExpanded" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen1Light.jpeg" alt="SearchScreen1" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen2Light.jpeg" alt="SearchScreen2" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/StarredScreenLight.jpeg" alt="Starred" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/DetailScreenLight.jpeg" alt="DetailScreen" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
-    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/AboutScreenLight.jpeg" alt="About" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeLight.jpeg" alt="Home" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeExpandedLight.jpeg" alt="HomeExpanded" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen1Light.jpeg" alt="SearchScreen1" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen2Light.jpeg" alt="SearchScreen2" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/StarredScreenLight.jpeg" alt="Starred" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/DetailScreenLight.jpeg" alt="DetailScreen" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/AboutScreenLight.jpeg" alt="About" style="height: 250px; width: auto; display: block; margin: 0 auto;"></td>
   </tr>
 </table>
 
